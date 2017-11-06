@@ -1,0 +1,6 @@
+{
+  "name": "buckaroo-test-throwtheswitch-unity",
+  "dependencies": {
+    "throwtheswitch/unity": "2.4.2"
+  }
+}
